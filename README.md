@@ -2,7 +2,10 @@
 
 
 ### DEMO VIDEO:
-Uploading Extensions - Brave 2024-06-01 02-31-28.mp4…
+
+https://github.com/pawarspeaks/GPT-Locker-Chrome-Extension/assets/87373605/f9f1c5f0-a931-45ae-a3a2-370ee4f96e60
+
+
 
 
 Devices data logged on usage of sensitive organizational data:
